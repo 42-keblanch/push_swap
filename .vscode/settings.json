@@ -1,0 +1,16 @@
+{
+    "makefile.configureOnOpen": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.o": true,
+    },
+    "editor.insertSpaces": false,
+	"github.copilot.enable": {
+		"*": true
+	},
+	"editor.inlineSuggest.enabled": false,
+}
